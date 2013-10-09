@@ -1,0 +1,7 @@
+{
+    "id": "guest",
+    "password": "guest",
+    "roles": [
+        "webgoat_user"
+    ]
+}

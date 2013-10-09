@@ -1,0 +1,8 @@
+{
+    "id": "basic",
+    "password": "basic",
+    "roles": [
+        "webgoat_user",
+        "webgoat_basic"
+    ]
+}
