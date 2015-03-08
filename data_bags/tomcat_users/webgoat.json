@@ -1,7 +1,0 @@
-{
-    "id": "webgoat",
-    "password": "webgoat",
-    "roles": [
-        "webgoat_admin"
-    ]
-}
