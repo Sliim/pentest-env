@@ -1,0 +1,4 @@
+*
+!.gitignore
+!pentest-env
+!pentest-env.pub
